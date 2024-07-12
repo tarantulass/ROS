@@ -1,0 +1,4 @@
+[console_scripts]
+mrs_hudson_teleop = task_1.mrs_hudson_teleop:main
+vel_pub = task_1.vel_pub:main
+

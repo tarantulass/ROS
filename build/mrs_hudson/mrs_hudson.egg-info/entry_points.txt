@@ -1,0 +1,4 @@
+[console_scripts]
+mrs_hudson_teleop = mrs_hudson.mrs_hudson_teleop:main
+vel_pub = mrs_hudson.vel_pub:main
+

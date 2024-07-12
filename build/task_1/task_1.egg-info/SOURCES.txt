@@ -1,0 +1,12 @@
+package.xml
+setup.py
+../../build/task_1/task_1.egg-info/PKG-INFO
+../../build/task_1/task_1.egg-info/SOURCES.txt
+../../build/task_1/task_1.egg-info/dependency_links.txt
+../../build/task_1/task_1.egg-info/entry_points.txt
+../../build/task_1/task_1.egg-info/requires.txt
+../../build/task_1/task_1.egg-info/top_level.txt
+../../build/task_1/task_1.egg-info/zip-safe
+config/mrs_hudson.rviz
+launch/mrs_hudson_world.launch.py
+worlds/mrs_hudson_arena.sdf

@@ -1,0 +1,5 @@
+[console_scripts]
+publisher1 = sherlock.listen_1:main
+publisher2 = sherlock.listen_2:main
+subscriber = sherlock.talk:main
+
